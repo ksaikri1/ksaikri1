@@ -68,6 +68,6 @@ Co-founder & sole developer. Live with 10+ cafe partners.
 ## 🔗 Connect
 
 - GitHub: https://github.com/ksaikri1
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/saikrishnaketha
 
 📍 Hyderabad, India · Open to freelance & collaborations
