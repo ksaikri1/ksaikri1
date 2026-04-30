@@ -1,4 +1,13 @@
-# Hi, I'm Ketha Sai Krishna 👋
+# Ketha Sai Krishna 👋
+
+🚀 Full-stack developer & QA engineer
+🏗️ Built and shipped real-world products end-to-end (0 → production → users)
+
+* 🏥 Hospital Management System (live)
+* 🛡️ Emergency Digital ID platform (live)
+* ☕ Subscription platform used by real cafes (live)
+
+👉 I don't just write code — I ship products.
 
 Full-stack developer & QA engineer based in **Hyderabad, India**.
 My own product — built solo from scratch, end to end.
