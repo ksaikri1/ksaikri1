@@ -1,68 +1,73 @@
 # Ketha Sai Krishna 👋
 
 🚀 Full-stack developer & QA engineer
-🏗️ Built and shipped real-world products end-to-end (0 → production → users)
+🏗️ Built and shipped production-grade products from scratch (0 → live → users)
 
-* 🏥 Hospital Management System (live)
-* 🛡️ Emergency Digital ID platform (live)
-* ☕ Subscription platform used by real cafes (live)
+- 🏥 Hospital Management System used in real clinics
+- 🛡️ Emergency Digital ID platform (QR + NFC + Web)
+- ☕ Loyalty subscription platform with 10+ partner cafes
 
-👉 I don't just write code — I ship products.
-
-Full-stack developer & QA engineer based in **Hyderabad, India**.
-My own product — built solo from scratch, end to end.
-React Native (Expo) · Firebase Firestore · Firebase Hosting
----
-
-## 🚀 Products I've built
-
-### 🏥 HealthieSpan — Hospital Management System
-A full-scale hospital platform built from scratch for a real client.
-Covers patient management, lab orders, multi-department consultations, billing & discounts,
-doctor virtual consultation portal with live prescription generation, and a backend admin panel.
-
-→ [healthiespan.com](https://healthiespan.com)
+👉 I don't just write code — I build and launch products that people actually use.
 
 ---
 
-### 🛡️ MySafeCard — Emergency Digital ID
-Multi-platform emergency ID card app with QR code, NFC tap, and Google Auth.
-Built solo with React Native (Expo), Firebase Firestore, and Firebase Hosting.
+## 📊 Proof of Work
 
-→ [mysafecard.in](https://mysafecard.in)
-
----
-
-### ☕ ElitePass — Loyalty Subscription Platform
-Co-founder & sole developer of a cafe loyalty PWA.
-Customers pre-buy coffee bundles and earn free cups. Vendors lock in recurring revenue.
-Live with 10+ onboarded cafes.
-
-→ [elitepass.in](https://elitepass.in)
+- 🏥 HealthieSpan: Live production system used by real clinics
+- ☕ ElitePass: 10+ cafes onboarded (co-founder & sole developer)
+- 🛡️ MySafeCard: Multi-platform — QR + NFC + Web
 
 ---
 
-## 🛠️ Tech stack
+## 🏥 HealthieSpan — Hospital Management System
 
-**Frontend** · React · React Native (Expo) · PWA  
-**Backend** · Firebase (Firestore · Auth · Hosting) · Node.js  
-**Deployment** · Vercel · Firebase Hosting  
-**Messaging** · Twilio (SMS) · Amazon SES (Email)  
-**QA** · TestRail · Appium · BrowserStack · Accessibility audits  
-**Tools** · Git · Figma · VS Code
+Full-stack platform built for real clinics, from scratch.
 
----
+- Patient management & lab order workflows
+- Doctor virtual consultations + live prescription generation
+- Billing, discounts & backend admin panel
 
-## 📌 Currently focused on
-
-- Scaling HealthieSpan with telemedicine features
-- Growing ElitePass to 50+ cafe partners
-- MySafeCard NFC hardware rollout
+🔗 https://healthiespan.com
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ksaikri1&show_icons=true&hide_border=true&theme=default&count_private=true)](https://github.com/ksaikri1)
+## 🛡️ MySafeCard — Emergency Digital ID
+
+My own product — built solo, end to end.
+
+- QR code + NFC tap + Web access
+- Google Auth, Firebase backend, multi-platform
+- Real domain, live users
+
+🔗 https://mysafecard.in
 
 ---
 
-📍 Hyderabad, India  ·  Open to freelance & collaborations
+## ☕ ElitePass — Loyalty Subscription Platform
+
+Co-founder & sole developer. Live with 10+ cafe partners.
+
+- Customers pre-buy coffee bundles, earn free cups
+- Vendors get guaranteed footfall & recurring revenue
+
+🔗 https://elitepass.in
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React · React Native (Expo) · PWA
+**Backend:** Firebase (Firestore, Auth) · Node.js
+**Deployment:** Vercel · Firebase Hosting
+**Messaging:** Twilio (SMS) · Amazon SES (Email)
+**QA:** TestRail · Appium · BrowserStack
+**Tools:** Git · Figma · VS Code
+
+---
+
+## 🔗 Connect
+
+- GitHub: https://github.com/ksaikri1
+- LinkedIn: (add your link)
+
+📍 Hyderabad, India · Open to freelance & collaborations
